@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "blurry-bugs",
+  "description": "Those bugs can't be beaten and come back again and again. We have to remember how to fend them off!",
   "version": "0.0.1",
   "scripts": {
     "start": "sapper dev",
